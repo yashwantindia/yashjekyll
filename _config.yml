@@ -28,9 +28,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-athena
+theme: minima
+
 plugins:
   - jekyll-feed
+
+destination: public
 
 # Exclude from processing.
 # The following items will not be processed, by default.
